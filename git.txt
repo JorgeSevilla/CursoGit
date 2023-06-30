@@ -1,3 +1,18 @@
 Comandos de git
 
 ****Básicos****
+git init //Crea un proyecto git
+git add nombreArchivo.txt
+git add . //Adicionar todos los archivos
+git status //
+git show //Muestra el histórico
+git log nombreArchivo //Historia entera de un archivo
+git push ///Enviar hacia otro repositórios las modificaciones
+git --version //Ver la versión de git
+
+
+****Comandos consola****
+cat nombreArchivo.txt //Muestra el contenido
+touch nombreArchivo.txt //Crea un archivo
+history //Cra toda la historia de comandos
+rm nombreArchivo.txt //Borrar archivos
